@@ -2,7 +2,7 @@
 
 # Get a better watching experience on Coursera!
 
-In this repository, I recommend a very useful extension to get a better watching experience on Coursera.
+In this repository, I recommend a very useful extensions  to get a better watching experience on Coursera.
 
 ### EXTENSIONS
 
