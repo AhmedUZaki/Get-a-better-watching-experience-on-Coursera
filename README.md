@@ -20,11 +20,11 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 
 ### Before:
 
-<img src="1.jpg" alt="Screenshot_1"  style="zoom: 33%;" />
+<img src="img\img\1.jpg" alt="Screenshot_1"  style="zoom: 33%;" />
 
 ### After:
 
-<img src="2.jpg" alt="Screenshot_2"  style="zoom: 33%;" />
+<img src="img\2.jpg" alt="Screenshot_2"  style="zoom: 33%;" />
 
 
 
@@ -32,15 +32,15 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
 
-<img src="3.jpg" alt="Screenshot_3"  style="zoom: 80%;" />
+<img src="img\3.jpg" alt="Screenshot_3"  style="zoom: 80%;" />
 
 ### Before:
 
-<img src="2.jpg" alt="Screenshot_2"  style="zoom: 33%;" />
+<img src="img\2.jpg" alt="Screenshot_2"  style="zoom: 33%;" />
 
 ### After:
 
-<img src="4.jpg" alt="Screenshot_4"  style="zoom:33%;" />
+<img src="img\4.jpg" alt="Screenshot_4"  style="zoom:33%;" />
 
 
 
@@ -48,8 +48,7 @@ This extension come with a wonderful minimalistic slider, So that you can read t
 
 Once the extension is installed simply navigate to any Video, and you'll see a speed indicator in top left corner. Hover over the indicator to reveal the controls to accelerate, slowdown, and quickly rewind or advance the video. Or, even better.
 
-<img src="5.jpg" alt="Screenshot_5"  style="zoom: 67%;" />
-
+<img src="img\5.jpg" alt="Screenshot_5"  style="zoom: 67%;" />
 
 ####  **simply use your keyboard:**
 
@@ -62,8 +61,8 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 - **V** - show/hide the controller.
 
 You can customize and reassign the default shortcut keys in the extensions settings page, as well as add additional shortcut keys to match your preferences. For example, you can assign multiple different "preferred speed" shortcuts with different values, which will allow you to quickly toggle between your most commonly used speeds. To add a new shortcut, open extension settings and click "Add New".
-![settings Add New shortcut](https://user-images.githubusercontent.com/121805/50726471-50242200-1172-11e9-902f-0e5958387617.jpg)
 
+<img src="img\6.jpg" alt="Screenshot_6" style="zoom: 67%;" />
 
 ## Coursera Quiz Printer [[Extension Link]]([https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
@@ -71,8 +70,8 @@ If you've ever tried to print a partial or completed practice quiz on Coursera, 
 
 ### Before:
 
-<img src="7.jpg" alt="Screenshot_7" style="zoom: 67%;" />
+<img src="img\7.jpg" alt="Screenshot_7" style="zoom: 67%;" />
 
 ### After:
 
-<img src="8.jpg" alt="Screenshot_8" style="zoom: 67%;" />
+<img src="img\8.jpg" alt="Screenshot_8" style="zoom: 67%;" />
