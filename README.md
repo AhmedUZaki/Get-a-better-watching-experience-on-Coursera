@@ -34,7 +34,7 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
   
 <p align="center">
-<img src="img\3.jpg" alt="Screenshot_3"  style="width:300px;"/>
+<img src="img\3.jpg" alt="Screenshot_3"  style="width:350px;"/>
 
 ### Before:
 <p align="center">
@@ -64,7 +64,7 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 
 You can customize and reassign the default shortcut keys in the extensions settings page, as well as add additional shortcut keys to match your preferences. For example, you can assign multiple different "preferred speed" shortcuts with different values, which will allow you to quickly toggle between your most commonly used speeds. To add a new shortcut, open extension settings and click "Add New".
 
-<img src="img\6.jpg" alt="Screenshot_6" style="width:300px;"/>
+<img src="img\6.jpg" alt="Screenshot_6" style="width:350px;"/>
 
 ## Coursera Quiz Printer [[Extension Link]]([https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
