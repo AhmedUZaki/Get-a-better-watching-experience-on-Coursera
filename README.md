@@ -9,7 +9,7 @@ In this repository, I recommend a very useful extensions to get a better watchin
 - [Coursera subtitle translation to Arabic](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic)
 - [Coursera Subtitle Resizer](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
-- [Coursera Quiz Printer]([https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
+- [Coursera Quiz Printer](https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
 ## Coursera subtitle translation to Arabic [[Extension Link]](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic)
 
