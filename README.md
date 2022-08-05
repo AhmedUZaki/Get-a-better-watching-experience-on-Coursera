@@ -50,6 +50,7 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 
 <img src="5.jpg" alt="Screenshot_5"  style="zoom: 67%;" />
 
+![settings Add New shortcut](https://user-images.githubusercontent.com/121805/50726471-50242200-1172-11e9-902f-0e5958387617.jpg)
 ####  **simply use your keyboard:**
 
 - **S** - decrease playback speed.
