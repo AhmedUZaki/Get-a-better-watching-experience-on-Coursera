@@ -19,7 +19,7 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 - If the course does not have Arabic subtitles, English subtitles will be automatically translated.
 
 ### Before:
-![]("img\1.jpg" | width=100)
+<img src="https://github.com/engzakii/Get-a-better-watching-experience-on-Coursera/blob/main/img/1.jpg" width="200" height="400" />
 <img src="img\1.jpg" alt="Screenshot_1"  style="zoom: 33%;" />
 
 ### After:
