@@ -24,32 +24,33 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 
 
 ### After:
-
-<img src="img\2.jpg" alt="Screenshot_2"  style="zoom: 33%;" />
+<p align="center">
+<img src="img\2.jpg" alt="Screenshot_2"  style="width:800px;"/>
 
 
 
 ## Coursera Subtitle Resizer [[Extension Link]](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
 
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
-
-<img src="img\3.jpg" alt="Screenshot_3"  style="zoom: 80%;" />
+  
+<p align="center">
+<img src="img\3.jpg" alt="Screenshot_3"  style="width:500px;"/>
 
 ### Before:
-
-<img src="img\2.jpg" alt="Screenshot_2"  style="zoom: 33%;" />
+<p align="center">
+<img src="img\2.jpg" alt="Screenshot_2"  style="width:800px;"/>
 
 ### After:
-
-<img src="img\4.jpg" alt="Screenshot_4"  style="zoom:33%;" />
+<p align="center">
+<img src="img\4.jpg" alt="Screenshot_4"  style="width:800px;"/>
 
 
 
 ## Video Speed Controller [[Extension Link]](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
 
 Once the extension is installed simply navigate to any Video, and you'll see a speed indicator in top left corner. Hover over the indicator to reveal the controls to accelerate, slowdown, and quickly rewind or advance the video. Or, even better.
-
-<img src="img\5.jpg" alt="Screenshot_5"  style="zoom: 67%;" />
+<p align="center">
+<img src="img\5.jpg" alt="Screenshot_5"  style="width:800px;"/>
 
 ####  **simply use your keyboard:**
 
@@ -63,16 +64,16 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 
 You can customize and reassign the default shortcut keys in the extensions settings page, as well as add additional shortcut keys to match your preferences. For example, you can assign multiple different "preferred speed" shortcuts with different values, which will allow you to quickly toggle between your most commonly used speeds. To add a new shortcut, open extension settings and click "Add New".
 
-<img src="img\6.jpg" alt="Screenshot_6" style="zoom: 67%;" />
+<img src="img\6.jpg" alt="Screenshot_6" style="width:500px;"/>
 
 ## Coursera Quiz Printer [[Extension Link]]([https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
 If you've ever tried to print a partial or completed practice quiz on Coursera, then you've seen the jumbled mess that it spits out. This extension fixes that issue and lets you print any quiz or exam while taking it or while viewing the answers / feedback.
 
 ### Before:
-
-<img src="img\7.jpg" alt="Screenshot_7" style="zoom: 67%;" />
+<p align="center">
+<img src="img\7.jpg" alt="Screenshot_7" style="width:800px;"/>
 
 ### After:
-
-<img src="img\8.jpg" alt="Screenshot_8" style="zoom: 67%;" />
+<p align="center">
+<img src="img\8.jpg" alt="Screenshot_8" style="width:800px;"/>
