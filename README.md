@@ -20,7 +20,7 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 
 ### Before:
 
-<img src="img\1.jpg" alt="Screenshot_1"  style="width:200px;"/>
+<img src="img\1.jpg" alt="Screenshot_1"  style="width:500px;"/>
 <img src="img\1.jpg" alt="Screenshot_1"  style="zoom: 33%;" />
 
 ### After:
