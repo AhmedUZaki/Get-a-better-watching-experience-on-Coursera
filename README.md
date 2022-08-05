@@ -33,7 +33,7 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
   
-<p align="center">
+
 <img src="img\3.jpg" alt="Screenshot_3"  style="width:350px;"/>
 
 ### Before:
