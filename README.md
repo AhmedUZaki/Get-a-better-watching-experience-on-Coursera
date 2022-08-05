@@ -50,7 +50,7 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 
 <img src="5.jpg" alt="Screenshot_5"  style="zoom: 67%;" />
 
-![settings Add New shortcut](https://user-images.githubusercontent.com/121805/50726471-50242200-1172-11e9-902f-0e5958387617.jpg)
+
 ####  **simply use your keyboard:**
 
 - **S** - decrease playback speed.
@@ -62,8 +62,8 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 - **V** - show/hide the controller.
 
 You can customize and reassign the default shortcut keys in the extensions settings page, as well as add additional shortcut keys to match your preferences. For example, you can assign multiple different "preferred speed" shortcuts with different values, which will allow you to quickly toggle between your most commonly used speeds. To add a new shortcut, open extension settings and click "Add New".
+![settings Add New shortcut](https://user-images.githubusercontent.com/121805/50726471-50242200-1172-11e9-902f-0e5958387617.jpg)
 
-<img src="6.jpg" alt="Screenshot_6" style="zoom: 67%;" />
 
 ## Coursera Quiz Printer [[Extension Link]]([https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
