@@ -7,7 +7,7 @@ In this repository, I recommend a very useful extension to get a better watching
 ### EXTENSIONS
 
 - [Coursera subtitle translation to Arabic](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic)
-- [Coursera Subtitle Resizer]([Coursera Subtitle Resizer - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe))
+- [Coursera Subtitle Resizer](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
 
 ## Coursera subtitle translation to Arabic [[Extension Link]](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic)
@@ -17,27 +17,27 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 - If the course has both Arabic and English subtitles, open it directly.
 - If the course does not have Arabic subtitles, English subtitles will be automatically translated.
 
-#### Before:
+### Before:
 
 <img src="1.jpg" alt="Screenshot_1" style="zoom: 33%;" />
 
-#### After:
+### After:
 
 <img src="2.jpg" alt="Screenshot_2" style="zoom: 33%;" />
 
 
 
-## Coursera Subtitle Resizer [[Extension Link]]([Coursera Subtitle Resizer - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe))
+## Coursera Subtitle Resizer [[Extension Link]](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
 
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
 
 <img src="3.jpg" alt="Screenshot_7" style="zoom: 80%;" />
 
-#### Before:
+### Before:
 
 <img src="2.jpg" alt="Screenshot_2" style="zoom: 33%;" />
 
-#### After:
+### After:
 
 <img src="4.jpg" alt="Screenshot_4" style="zoom:33%;" />
 
@@ -49,7 +49,7 @@ Once the extension is installed simply navigate to any Video, and you'll see a s
 
 <img src="5.jpg" alt="Screenshot_8" style="zoom: 67%;" />
 
- **simply use your keyboard:**
+####  **simply use your keyboard:**
 
 - **S** - decrease playback speed.
 - **D** - increase playback speed.
