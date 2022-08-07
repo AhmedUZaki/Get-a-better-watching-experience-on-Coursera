@@ -66,7 +66,7 @@ You can customize and reassign the default shortcut keys in the extensions setti
 
 <img src="img\6.jpg" alt="Screenshot_6" style="width:350px;"/>
 
-## Coursera Quiz Printer [[Extension Link]]([https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
+## Coursera Quiz Printer [[Extension Link]](https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
 If you've ever tried to print a partial or completed practice quiz on Coursera, then you've seen the jumbled mess that it spits out. This extension fixes that issue and lets you print any quiz or exam while taking it or while viewing the answers / feedback.
 
