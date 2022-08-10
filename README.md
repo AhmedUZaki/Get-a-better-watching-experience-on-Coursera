@@ -84,5 +84,8 @@ If you've ever tried to print a partial or completed practice quiz on Coursera, 
 Chrome extension for mouseover translation - Mouse over to translate using google translate
 When mouse hover on text, it shows translated tooltip in any desired language.
 
+<p align="center">
 ![Alt Text](https://github.com/ttop32/MouseTooltipTranslator/blob/main/doc/result_0.gif)
+<p align="center">
+<img src="https://github.com/ttop32/MouseTooltipTranslator/blob/main/doc/screenshot_4.png" alt="Screenshot_7" style="width:800px;"/>
 
