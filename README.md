@@ -86,4 +86,12 @@ When mouse hover on text, it shows translated tooltip in any desired language.
 ![Alt Text](https://github.com/ttop32/MouseTooltipTranslator/blob/main/doc/result_0.gif)
 <p align="center">
 <img src="https://github.com/ttop32/MouseTooltipTranslator/blob/main/doc/screenshot_4.png" alt="Screenshot_7" style="width:800px;"/>
+  
+### Features
 
+- Visualise tooltip on any web page (except chrome web store site)
+- Using google translate to translate in any language
+- In the setting, google tts (text to speech) is available to listen text
+- Support pdf to display translated tooltip using Mozilla PDF.js
+- Filter out when source language and target language are same
+- (Experimental feature) show comic bubble translation when mouse over on comic bubble background
