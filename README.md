@@ -5,7 +5,7 @@ In this repository, I recommend a very useful extensions to get a better watchin
 ### EXTENSIONS
 
 - [Coursera subtitle translation to Arabic](#Coursera-subtitle-translation-to-Arabic)
-- [Coursera Subtitle Resizer](##coursera-subtitle-resizer)
+- [Coursera Subtitle Resizer](#coursera-subtitle-resizer)
 - [Video Speed Controller](#Video-Speed-Controller)
 - [Coursera Quiz Printer](#Coursera-Quiz-Printer)
 - [Mouse Tooltip Translator](#Mouse-Tooltip-Translator)
