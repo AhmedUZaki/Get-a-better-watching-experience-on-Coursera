@@ -5,7 +5,7 @@ In this repository, I recommend a very useful extensions to get a better watchin
 ### EXTENSIONS
 
 - [Coursera subtitle translation to Arabic](#Coursera-subtitle-translation-to-Arabic)
-- [Coursera Subtitle Resizer](#coursera-subtitle-resizer)
+- [Coursera Subtitle Resizer](#Coursera-Subtitle-Resizer)
 - [Video Speed Controller](#Video-Speed-Controller)
 - [Coursera Quiz Printer](#Coursera-Quiz-Printer)
 - [Mouse Tooltip Translator](#Mouse-Tooltip-Translator)
@@ -31,7 +31,6 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 ## [Coursera Subtitle Resizer](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
 
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
-
 
 <img src="img\3.jpg" alt="Screenshot_3"  style="width:350px;"/>
 
@@ -65,7 +64,7 @@ You can customize and reassign the default shortcut keys in the extensions setti
 
 <img src="img\6.jpg" alt="Screenshot_6" style="width:350px;"/>
 
-##[Coursera Quiz Printer](https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
+## [Coursera Quiz Printer](https://chrome.google.com/webstore/detail/coursera-quiz-printer/pkgbcmdpjlnmngdfjicnkppkkmnaejnm?hl=en)
 
 If you've ever tried to print a partial or completed practice quiz on Coursera, then you've seen the jumbled mess that it spits out. This extension fixes that issue and lets you print any quiz or exam while taking it or while viewing the answers / feedback.
 
@@ -86,7 +85,7 @@ When mouse hover on text, it shows translated tooltip in any desired language.
 ![Alt Text](https://github.com/ttop32/MouseTooltipTranslator/blob/main/doc/result_0.gif)
 <p align="center">
 <img src="https://github.com/ttop32/MouseTooltipTranslator/blob/main/doc/screenshot_4.png" alt="Screenshot_7" style="width:800px;"/>
-  
+
 ### Features
 
 - Visualise tooltip on any web page (except chrome web store site)
