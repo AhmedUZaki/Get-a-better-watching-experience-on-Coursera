@@ -28,7 +28,7 @@ Turn on bilingual subtitles in Arabic and English for Coursera course videos.
 
 
 
-## Coursera Subtitle Resizer [[Extension Link]](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
+## [Coursera Subtitle Resizer](https://chrome.google.com/webstore/detail/coursera-subtitle-resizer/eaiabkjipjhalikppkkjoeefjnphgbpe)
 
 This extension come with a wonderful minimalistic slider, So that you can read the slides clearly
 
